@@ -22,8 +22,8 @@ exports.list = function(req, res){
 // 1) Comment the two methods res.setHeader() and res.send()
 // 2) Uncomment the entire db code block below to use DB
 
-    res.setHeader('Content-Type', 'application/json');
-    res.send(JSON.stringify(resultData));
+//    res.setHeader('Content-Type', 'application/json');
+//    res.send(JSON.stringify(resultData));
 
 
     // Start of db code block
